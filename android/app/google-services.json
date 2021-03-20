@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575294396871",
+    "project_id": "shoedothat",
+    "storage_bucket": "shoedothat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575294396871:android:9daf3d22eff884591c21e2",
+        "android_client_info": {
+          "package_name": "com.example.appdatn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575294396871-pcdnvbutbfb091prliqkpsa71de3mmea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk_7wiXoQe6WUlppmRvEDWqSazU0SZRVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575294396871-pcdnvbutbfb091prliqkpsa71de3mmea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
